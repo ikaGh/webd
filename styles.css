@@ -1,0 +1,90 @@
+.bk {
+    border : 5px double crimson;
+    background-color: rgb(250, 229, 198);
+    font-family: Georgia; 
+}
+
+h3 {
+    font-family: Segoe UI;
+    text-shadow: 2px 2px silver;
+    font-size: 30px;
+    font-style: italic;
+    color: indianred;
+    padding: 2opx;
+    background-color: cornsilk;
+}
+p {
+    line-height: 30px; 
+}
+
+.nm {
+    border : 5px double cornflowerblue;
+    background-color: rgb(210, 212, 245);
+    font-family: Cochin;
+}
+
+h4 {
+    color: darkblue;
+    text-shadow: 2px 2px silver;
+    font-size: larger;
+}
+
+a {
+    color: palevioletred;
+    column-count: 3;
+}
+
+.mv {
+    border : 5px double mediumaquamarine;
+    background-color: rgb(225, 253, 222);
+
+}
+
+#mk {
+    background-color: rgb(242, 220, 245);
+    padding: 20px;
+}
+
+img {
+    max-width: fit-content;
+    bottom: 100px;
+    shape-margin: 2px;
+}
+
+
+.images:hover {
+    position: relative;
+    top: -5px;
+    text-shadow: 2px 2px slategrey;
+}
+
+a:hover {
+    background-color: antiquewhite;
+    padding: 3px;
+}
+
+strong:hover{
+    position: relative;
+    top: -1px;
+    text-decoration: dotted;
+}
+
+h3:hover {
+    position: relative;
+    top: -4px;
+}
+
+.mv:hover {
+    position: relative;
+    top: -4px;
+}
+
+.nm:hover {
+    position: relative;
+    top: -4px;
+}
+
+.bk:hover {
+    position: relative;
+    top: -4px;
+}
